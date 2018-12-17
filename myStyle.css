@@ -1,0 +1,15 @@
+body{ 
+    font: 14px sans-serif; 
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+h1.title {
+    position: absolute;
+}
+.wrapper {
+    width: 400px;
+    padding: 25px;
+    border: 1px solid gainsboro;
+    margin-top: 7em;
+}
